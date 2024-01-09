@@ -5,3 +5,4 @@ Recreation of The New York Times’ Wordle in Java using a graphical user interf
 ![Screenshot 1](Screenshots/screenshot1.png)
 ![Screenshot 1](Screenshots/screenshot2.png)
 ![Screenshot 1](Screenshots/screenshot3.png)
+![Screenshot 1](Screenshots/screenshot4.png)
